@@ -1,16 +1,29 @@
-### Hi there 👋
+# 🧑‍💻 Front-end Developer
 
-<!--
-**andresnorat/andresnorat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Front-end development repository! I'm a developer with experience creating interactive and engaging websites using HTML, CSS,  JavaScript, TypeScript.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+
+Here's a list of some of my most notable projects:
+
+My web site  ...
+
+Yard Sale ...
+
+Trello clone ...
+
+### Skills
+- HTML5
+- CSS (Sass/SCSS)
+- Tailwind
+- JavaScript (ES6+)
+- Bootstrap
+- Angular
+- Git/GitHub
+
+### Contact
+If you're interested in working with me or just want to chat, feel free to get in touch via my email or LinkedIn profile.
+
+Email: carnorat@gmail.com
+LinkedIn: [Andres Norato](https://www.linkedin.com/in/carlos-andr%C3%A9s-norato-g%C3%B3mez-1908b5200/).
