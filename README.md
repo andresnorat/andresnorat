@@ -2,7 +2,6 @@
 
 Welcome to my Front-end development repository! I'm a developer with experience creating interactive and engaging websites using HTML, CSS,  JavaScript, TypeScript.
 
-
 ### Featured Projects
 
 Here's a list of some of my most notable projects:
@@ -16,11 +15,8 @@ Trello clone ...
 ### Skills
 - HTML5
 - CSS (Sass/SCSS)
-- Tailwind
-- JavaScript (ES6+)
-- Bootstrap
+- JavaScript, TypeScript (ES6+)
 - Angular
-- Git/GitHub
 
 ### Contact
 If you're interested in working with me or just want to chat, feel free to get in touch via my email or LinkedIn profile.
