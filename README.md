@@ -9,6 +9,7 @@ Here's a list of some of my most notable projects:
 My web site  ...
 
 [Yard Sale](https://inquisitive-cactus-0d4207.netlify.app/home)
+
 Trello clone ...
 
 ### Skills
