@@ -12,7 +12,7 @@ My web site  ...
 
 [Rick y Morty](https://rick-and-morty-f17ae.web.app/home)
 
-[Trello clone] (https://github.com/andresnorat/trello-clone)
+[Trello clone](https://github.com/andresnorat/trello-clone)
 
 ### Skills
 - HTML5
